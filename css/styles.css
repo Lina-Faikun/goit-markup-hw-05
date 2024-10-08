@@ -695,6 +695,9 @@ img {
 
 }
 .order-form-wrapper{
+        margin-bottom: 8px;
+}
+.order-form-wrapper-textarea{
         margin-bottom: 16px;
 }
 .order-form-comments{
