@@ -692,6 +692,10 @@ img {
 }
 .order-form-input:focus + .modal-icons-input{
         fill: #4D5AE5;
+
+}
+.order-form-wrapper{
+        margin-bottom: 16px;
 }
 .order-form-comments{
         width: 100%;
@@ -716,7 +720,7 @@ img {
         border-color: #4d5ae5;
 }
 .order-form-checkbox-wrapper{
-        margin-bottom: 16px;
+        margin-bottom: 24px;
 }
 .order-checkbox-label{
         font-size: 12px;
